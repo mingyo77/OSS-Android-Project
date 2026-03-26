@@ -1,12 +1,12 @@
 # 📑 Conceptualization: Helper
 
 <img width="386" height="386" alt="image" src="https://github.com/user-attachments/assets/ab104c79-dc97-4d2e-959b-20ca254ef02e" />
-
+| Student ID: 22212032 | Name: 강민교 | E-mail: wells7845@naver.com |
 ## [ Revision History ]
 
 | Revision Date | Version | Description | Author |
 | :--- | :--- | :--- | :--- |
-| 03/25/2026 | 1.01 | Use Case 및 Concept of Operation 전체 항목 반영 | 강민교 |
+| 03/25/2026 | 1.01 | Use Case 및 Concept of Operation | mingyo|
 
 ---
 
