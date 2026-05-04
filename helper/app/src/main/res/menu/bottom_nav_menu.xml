@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navigation_home" android:title="홈" android:icon="@android:drawable/ic_menu_today" />
+    <item android:id="@+id/navigation_task" android:title="업무" android:icon="@android:drawable/ic_menu_agenda" />
+    <item android:id="@+id/navigation_cooking" android:title="요리" android:icon="@android:drawable/ic_menu_compass" />
+    <item android:id="@+id/navigation_manage" android:title="관리" android:icon="@android:drawable/ic_menu_manage" />
+    <item android:id="@+id/navigation_profile" android:title="프로필" android:icon="@android:drawable/ic_menu_myplaces" />
+</menu>
